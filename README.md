@@ -1,2 +1,3 @@
 # HalloweenKiller-Game
-Game using java
+Game using java<br>
+Author-Somama Siddiqui
