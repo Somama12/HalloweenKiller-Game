@@ -1,6 +1,6 @@
 # Halloween Killer Game
 
-`Welcome to "Haunted Skies," a thrilling Java-powered killer game set in the spooky atmosphere of Halloween.`
+```Welcome to "Haunted Skies," a thrilling Java-powered killer game set in the spooky atmosphere of Halloween.```
 
 ## Objective
 
