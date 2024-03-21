@@ -1,22 +1,22 @@
 # Halloween Killer Game
 
-```Welcome to "Haunted Skies," a thrilling Java-powered killer game set in the spooky atmosphere of Halloween.```
+Welcome to "Haunted Skies," a thrilling Java-powered killer game set in the spooky atmosphere of Halloween.
 
 ## Objective
 
-`Your mission is clear: control a jet and aim to eliminate as many Halloween targets as possible within a time limit of 60 seconds.`
+Your mission is clear: control a jet and aim to eliminate as many Halloween targets as possible within a time limit of 60 seconds.
 
 ## Gameplay
 
-`Navigate through the haunted skies, dodging obstacles and firing at Halloween targets to rack up points. The more targets you hit, the higher your score will be.`
+Navigate through the haunted skies, dodging obstacles and firing at Halloween targets to rack up points. The more targets you hit, the higher your score will be.
 
 ## Challenge
 
-`Get ready for a fast-paced and exhilarating adventure as you test your skills in a time-restricted, spooky aerial challenge. Can you handle the pressure and emerge victorious?`
+Get ready for a fast-paced and exhilarating adventure as you test your skills in a time-restricted, spooky aerial challenge. Can you handle the pressure and emerge victorious?
 
 ## Scoring
 
-`Strategically target and shoot Halloween elements using your jet to set high scores and prove your dominance in the skies.`
+Strategically target and shoot Halloween elements using your jet to set high scores and prove your dominance in the skies.
 
 ## How to Play
 ```
